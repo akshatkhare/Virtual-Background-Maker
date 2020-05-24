@@ -1,2 +1,3 @@
 # Virtual-Background-Maker
-Computer Vision CS-GY6643 Final Project
+
+python main.py  -m mask-rcnn-coco
